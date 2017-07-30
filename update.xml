@@ -1,33 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root newVersion="2.8C" oldVersion="1.9C">
-    <node version="2.8C" isUpdate="true">
+    <node version="2.8C" isUpdate="false">
         <notice isShow="true">
+            <text>公告:</text>
             <text>443863167 很懒, 啥也没写</text>
-            <text>加入于 1小时前</text>
         </notice>
         <content>
             <text>更新说明:</text>
-            <text>①修复偷偷加入的东西的BUG...</text>
-            <text>②优化部分选项</text>
+            <text>①修复:无法获取版本信息BUG</text>
+            <text>②优化:更换更新源</text>
+            <text>③移除:对魔兽【1.27A、1.28A】版本的支持</text>
+            <text>③优化部分选项</text>
             <text>感谢您对11MH的厚爱，我们将不断完善产品功能，给您更好的游戏体验！</text>
-            <text>下载地址: http://pan.baidu.com/s/1skRBT5j</text>
-            <text>更新时间：2017-05-29 12:17:44</text>
         </content>
-        <crcCheck>lZoRPzhk0x1j+DXSyg==</crcCheck>
-    </node>
-    <node version="2.8B" isUpdate="true">
-        <notice isShow="true">
-            <text>443863167 很懒, 啥也没写</text>
-            <text>加入于 1小时前</text>
-        </notice>
-        <content>
-            <text>更新说明:</text>
-            <text>①修复偷偷加入的东西的BUG...</text>
-            <text>②优化部分选项</text>
-            <text>感谢您对11MH的厚爱，我们将不断完善产品功能，给您更好的游戏体验！</text>
-            <text>下载地址: http://pan.baidu.com/s/1skRBT5j</text>
-            <text>更新时间：2017-05-29 12:17:44</text>
-        </content>
-        <crcCheck>lZoRPzhk0x1j+DXSyg==</crcCheck>
+        <download>http://pan.baidu.com/s/1jIbwXdc</download>
+        <updateTime>2017-07-30 15:04:06</updateTime>
+        <crcCheck>lZsSPTRm0Bpi+DjVww==</crcCheck>
     </node>
 </root>
