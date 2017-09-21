@@ -18,7 +18,7 @@
         <crcCheck>lZsSPTRm0Bpi+DjVww==</crcCheck>
     </node>
     <node version="2.81" isUpdate="false">
-        <notice isShow="true">
+        <notice isShow="false">
             <text>公告:</text>
             <text>使用QQ登录注意事项:</text>
             <text>如果出现"脚本错误"请点击<是>,否则无法正常使用QQ登录</text>
