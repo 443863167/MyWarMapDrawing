@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<root newVersion="2.81" oldVersion="1.9C">
+<root newVersion="2.82" oldVersion="1.9C">
     <node version="2.8C" isUpdate="true">
         <notice isShow="false">
             <text>公告:</text>
@@ -33,4 +33,21 @@
         <updateTime>2017-09-16 21:26:49</updateTime>
         <crcCheck>lZoUOjdk2h5u/DnXww==</crcCheck>
     </node>
+    <node version="2.82" isUpdate="false">
+        <notice isShow="true">
+            <text>公告:</text>
+            <text>无法登录的加群(群号:602842919)</text>
+            <text>进群看公告!!!看公告!!!看公告!!!</text>
+        </notice>
+        <content>
+            <text>更新说明:</text>
+            <text>①优化:优化使用QQ验证登录,增加错误提示</text>
+            <text>②修复:资源面板，有时金钱显示不准确问题</text>
+            <text>③优化部分选项</text>
+            <text>感谢您对11MH的厚爱，我们将不断完善产品功能，给您更好的游戏体验！</text>
+        </content>
+        <download>群号:602842919</download>
+        <updateTime>2017-10-20 19:30:45</updateTime>
+        <crcCheck>lJARNzZk1B9p+jbVyQ==</crcCheck>
+    </node>    
 </root>
