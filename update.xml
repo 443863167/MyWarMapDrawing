@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<root newVersion="2.83B" oldVersion="1.9C">
-    <node version="2.83B" isUpdate="false">
+<root newVersion="2.9" oldVersion="1.9C">
+    <node version="2.9" isUpdate="false">
+        <notice isShow="false">
+            <text>公告:</text>
+            <text>无法登录的加群(群号:602842919)</text>
+            <text>进群看公告!!!看公告!!!看公告!!!</text>
+        </notice>
+        <content>
+            <text>更新说明(基于2.83):</text>
+            <text>①去除登录验证</text>
+            <text>②优化部分选项</text>
+            <text>V2.9源码出售(299元)不议价,联系方式 443863167@qq.com</text>
+        </content>
+        <download>群号:602842919</download>
+        <updateTime>2020-01-01 00:00:30</updateTime>
+        <crcCheck>lJAUPjZm0RZr/zjVzQ==</crcCheck>
+    </node>
+    <node version="2.83B" isUpdate="true">
         <notice isShow="true">
             <text>公告:</text>
             <text>无法登录的加群(群号:602842919)</text>
